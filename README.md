@@ -1,7 +1,9 @@
 ### ✨ Olá! Eu sou a Laíssa Fernandes! 👋😄
 
-- 🔭 Hoje sou formada em Desenvolvimento Web Full Stack e softskill.
-- 🌱 Estudando Node.js e um pouco de typescript
+- 🔭 Hoje sou formada em Desenvolvimento Web Full Stack e softskill;
+- 🌱 Estudando Node.js e um pouco de typescript;
+- 🏅Aproveito esse espaço para mostrar o meu desenvolvimento no processo de aprendizagem de novas tecnologias;
+- 🎈 E claro, sempre evoluir e aprender cada dia mais!
 
 
 <br>
